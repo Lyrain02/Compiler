@@ -1,0 +1,15 @@
+int a = 16 ; int b = 21 ; real c = 3.0 ;
+
+{
+
+a = a - 1 ;
+
+b = b + a ;
+
+if ( a <= b ) then a = b / 2 ; else c = c / 4 ;
+
+a = a * 2 - 1 ;
+
+if ( a >= b ) then c = c / 2 ; else c = c / 4 ;
+
+}

@@ -1,0 +1,6 @@
+//单引号错误
+int main()  
+{  
+    printf("HelloWorld);  
+    return 0;  
+}  

@@ -1,0 +1,6 @@
+int ID = INTNUM ; int ID = INTNUM ; real ID = REALNUM ;  
+{  
+ID = ID + INTNUM ;  
+ID = ID * ID ;  
+if ( ID < ID ) then ID = ID / INTNUM ; else ID = ID / INTNUM ;  
+}

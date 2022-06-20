@@ -1,0 +1,7 @@
+//非法字符
+int main()  
+{  
+    @123
+    printf("HelloWorld");  
+    return 0;  
+}  

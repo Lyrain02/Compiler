@@ -1,0 +1,6 @@
+int a = 3 ; int b = 5.73 ; real c = 3.0 ;
+{
+a = a + 1 ;
+b = b + a ;
+if ( a < b ) then c = c / 0 ; else c = c / 4 ;
+}

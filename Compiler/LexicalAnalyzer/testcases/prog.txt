@@ -1,0 +1,6 @@
+//正常函数
+int main()  
+{  
+    printf("HelloWorld");  
+    return 0;  
+}  

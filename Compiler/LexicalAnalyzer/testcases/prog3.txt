@@ -1,0 +1,8 @@
+//多行注释错误
+int main()  
+{  
+    printf("HelloWorld");  
+    /* zzzz
+       12345*
+    return 0;  
+}  

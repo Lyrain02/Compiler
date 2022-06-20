@@ -1,0 +1,17 @@
+int main()
+
+{
+
+	int i = 0;// 注释 test
+
+	for (i = 0; i != 10; ++i)
+
+	{
+
+		printf("%d",i);
+
+	}
+
+	return 0;
+
+}
